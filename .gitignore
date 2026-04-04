@@ -1,0 +1,8 @@
+.env
+db.sqlite3
+*.zip
+*.pdf
+.env
+db.sqlite3
+*.zip
+*.pdf
